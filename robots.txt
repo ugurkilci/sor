@@ -1,0 +1,6 @@
+User-agent: DeepCrawl
+Disallow: /assets/
+Disallow: /images/
+Disallow: /res/
+Disallow: /ayar.php
+Disallow: /uyeler.php
